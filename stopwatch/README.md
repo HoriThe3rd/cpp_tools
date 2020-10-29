@@ -1,7 +1,7 @@
 Stopwatch
 =======
 
-# Overview
+## Overview
 
 This class provides a stopwatch to measure a duration time of your program.
 
