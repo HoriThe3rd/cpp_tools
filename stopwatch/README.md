@@ -3,7 +3,7 @@ Stopwatch
 
 ## Overview
 
-This class provides a stopwatch to measure a duration time of your program.
+This class provides a stopwatch to measure a duration time counted in seconds of your program.
 
 ## Usage
 
