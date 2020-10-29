@@ -1,0 +1,15 @@
+# ***************************
+# Developer: S.Hori
+# Since 29th Oct. 2020.
+# ***************************
+
+# Ignore all project and temporary files to build the each project
+# except CMakeLists.txt files.
+**/project/**
+!**/project/CMakeLists.txt
+
+# Ignore hidden file generated on a MacOS.
+.DS_Store
+
+# For VSCode
+**/.vscode/**
