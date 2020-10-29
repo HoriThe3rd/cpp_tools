@@ -20,7 +20,7 @@ or you can use type inference like below.
 auto obj0 = stopwatch;
 ```
 
-Stop:  
+Stop and display the duration time:  
 Just call the destructor of the object like below to stop measuring the time.
 
 ```cpp
